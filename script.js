@@ -62,4 +62,4 @@ const perguntas = [
                 afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
             }
         ]
-    },
+    }
